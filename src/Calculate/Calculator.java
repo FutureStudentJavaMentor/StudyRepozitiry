@@ -44,8 +44,7 @@ public class  Calculator {
                 result=minus(num1,num2);
             }
             case "*" -> {
-               result=multi(num1,num2);
-            }
+               result=multi(num1,num2);}
             case "/" -> {
                result=div(num1,num2);
             }
